@@ -48,3 +48,5 @@
         - 정보처리기사
         - 한국사
         - 토익
+
+![Alt text](/path/to/img.jpg)
