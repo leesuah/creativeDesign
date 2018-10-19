@@ -10,7 +10,7 @@
   - 8월달 모바일게임 MAU 순위
     - 남자
 	
-        ![Alt text](/working_file/MAUChart_Man.png)
+        ![MAUChart_Man](./working_file/MAUChart_Man.png)
       - 5회 : 배틀그라운드, 의지의히어로
       - 4회 : 클래시로얄
       - 2회 : 피파온라인4, 하스스톤, 클래시오브클랜
@@ -18,7 +18,7 @@
 
     - 여자
 
-        ![여성MAU](/working_file/여성MAU.png)
+        ![여성MAU](./working_file/여성MAU.png)
       - 5회 : 배틀그라운드
       - 2회 : 의지의히어로, 클래시로얄, 마인크래프트
       - 1회 : 애니팡3, 애니팡사천성, 프렌즈팝콘, 피망뉴맞고, Piano tiles2, Rider, 쿠키런, 심즈, 러브앤프로듀서, 고양이귀여워, 마피아42, Helix Jump, 모두의마블
