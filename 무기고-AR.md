@@ -1,5 +1,5 @@
 |OVERVIEW|Ammo Type|Hit Damage|Initial Bullet Speed|Damage Per Second|Zeroing Ranges|Ammo Per Clip|Burst Size|Time Between Shots|Firing Modes|
-|-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|
 |AUG|5.56mm|43|940|501|100 - 500|30|1|0.086s|Auto, Single|
 |M16A4|5.56mm|43|900|573|100 - 500|30|3|0.075s|Burst, Single|
 |M416|5.56mm|43|880|501|100 - 400|30|1|0.086s|Auto, Single|
