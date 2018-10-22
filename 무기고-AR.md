@@ -727,16 +727,18 @@
      <td> Yes
     </tr>
   </tbody>
-  <tr bgcolor=black height=10px>
-    <td>
-    <td> <font color=orange> AUG
-    <td> <font color=orange> M16A4
-    <td> <font color=orange> M416
-    <td> <font color=orange> QBZ
-    <td> <font color=orange> SCAR-L
-    <td> <font color=orange> Beryl M762
-    <td> <font color=orange> AKM
-    <td> <font color=orange> Groza
-    <td> <font color=orange> Mk47 Mutant
-  </tr>
+  <tbody>
+    <tr bgcolor=black height=10px>
+      <td>
+      <td> <font color=orange> AUG
+      <td> <font color=orange> M16A4
+      <td> <font color=orange> M416
+      <td> <font color=orange> QBZ
+      <td> <font color=orange> SCAR-L
+      <td> <font color=orange> Beryl M762
+      <td> <font color=orange> AKM
+      <td> <font color=orange> Groza
+      <td> <font color=orange> Mk47 Mutant
+    </tr>
+  </tbody>
 </table>
