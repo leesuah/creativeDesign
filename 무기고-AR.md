@@ -1,4 +1,3 @@
-<html>
 <table>
   <thead>
     <tr>
@@ -20,7 +19,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <th> Ammo Type
       <td> 5.56mm
       <td> 5.56mm
       <td> 5.56mm
@@ -32,7 +31,7 @@
       <td> 7.62mm
     </tr>
     <tr>
-      <td>
+      <th> Hit Damage
       <td> 43
       <td> 43
       <td> 43
@@ -44,7 +43,7 @@
       <td> 49
     </tr>
     <tr>
-      <td>
+      <th> Initial Bullet Speed
       <td> 940
       <td> 900
       <td> 880
@@ -56,7 +55,7 @@
       <td> 780
     </tr>
     <tr>
-      <td>
+      <th> Damage Per Second
       <td> 501
       <td> 573
       <td> 501
@@ -68,7 +67,7 @@
       <td> 489
     </tr>
     <tr>
-      <td>
+      <th> Zeroing Ranges
       <td> 100 - 500
       <td> 100 - 500
       <td> 100 - 400
@@ -80,7 +79,7 @@
       <td> 100 - 1,000
     </tr>
     <tr>
-      <td>
+      <th> Ammo Per Clip
       <td> 30
       <td> 30
       <td> 30
@@ -92,7 +91,7 @@
       <td> 20
     </tr>
     <tr>
-      <td>
+      <th> Burst Size
       <td> 1
       <td> 3
       <td> 1
@@ -104,7 +103,7 @@
       <td> 2
     </tr>
     <tr>
-      <td>
+      <th> Time Between Shots
       <td> 0.086s
       <td> 0.075s
       <td> 0.086s
@@ -116,7 +115,7 @@
       <td> 0.100s
     </tr>
     <tr>
-      <td>
+      <th> Firing Modes
       <td> Auto, Single
       <td> Burst, Single
       <td> Auto, Single
@@ -134,7 +133,7 @@
   </thead>
   <tbody>
     <tr>
-     <td>
+     <th> Range
      <td> 1000m
      <td> 1000m
      <td> 1000m
@@ -146,7 +145,7 @@
      <td> 1000m
     </tr>
     <tr>
-     <td>
+     <th> Reference Distance
      <td> 350m
      <td> 400m
      <td> 360m
@@ -158,7 +157,7 @@
      <td> 380m
     </tr>
     <tr>
-     <td>
+     <th> Range Modifier
      <td> 0.940
      <td> 0.940
      <td> 0.940
@@ -170,7 +169,7 @@
      <td> 0.950
     </tr>
     <tr>
-     <td>
+     <th> Drag Coefficient
      <td> 0.80
      <td> 0.78
      <td> 0.76
@@ -188,7 +187,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <th> Reload Method
       <td> Clip
       <td> Clip
       <td> Clip
@@ -200,7 +199,7 @@
       <td> Clip
     </tr>
     <tr>
-      <td>
+      <th> Duration (Full)
       <td> 3.100s
       <td> 2.500s
       <td> 3.100s
@@ -212,7 +211,7 @@
       <td> 3.100s
     </tr>
     <tr>
-      <td>
+      <th> Duration (Mag Out)
       <td> 0.400s
       <td> 0.400s
       <td> 0.400s
@@ -224,7 +223,7 @@
       <td> 0.400s
     </tr>
     <tr>
-      <td>
+      <th> Duration (Charge)
       <td> 3.667s
       <td> 2.200s
       <td> 2.100s
@@ -236,7 +235,7 @@
       <td> 3.350s
     </tr>
     <tr>
-      <td>
+      <th> Duration (Tactical)
       <td> 3.000s
       <td> 1.900s
       <td> 1.900s
@@ -254,7 +253,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <th> Base
       <td> 4.00
       <td> 5.00
       <td> 4.00
@@ -266,7 +265,7 @@
       <td> 6.00
     </tr>
     <tr>
-      <td>
+      <th> Aiming Modifier
       <td> 0.13
       <td> 0.15
       <td> 0.14
@@ -278,7 +277,7 @@
       <td> 0.15
     </tr>
     <tr>
-      <td>
+      <th> ADS Modifier
       <td> 0.02
       <td> 0.02
       <td> 0.02
@@ -290,7 +289,7 @@
       <td> 0.03
     </tr>
     <tr>
-      <td>
+      <th> Firing Base
       <td> 9
       <td> 8
       <td> 8
@@ -308,7 +307,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <th> Base
       <td> 3.00
       <td> 3.10
       <td> 3.10
@@ -320,7 +319,7 @@
       <td> 3.50
     </tr>
     <tr>
-      <td>
+      <th> Base (Aim)
       <td> 1.20
       <td> 1.30
       <td> 1.35
@@ -332,7 +331,7 @@
       <td> 1.45
     </tr>
     <tr>
-      <td>
+      <th> Base (ADS)
       <td> –
       <td> –
       <td> –
@@ -344,7 +343,7 @@
       <td> 0.02
     </tr>
     <tr>
-      <td>
+      <th> Recoil Gain
       <td> 1.30
       <td> 1.30
       <td> 1.30
@@ -356,7 +355,7 @@
       <td> 1.40
     </tr>
     <tr>
-      <td>
+      <th> Recoil Gain (Aim)
       <td> 0.80
       <td> 0.80
       <td> 0.80
@@ -368,7 +367,7 @@
       <td> 0.90
     </tr>
     <tr>
-      <td>
+      <th> Recoil Gain (ADS)
       <td> 0.02
       <td> 0.02
       <td> 0.02
@@ -380,7 +379,7 @@
       <td> 0.02
     </tr>
     <tr>
-      <td>
+      <th> MOA
       <td> 1.20
       <td> 4.00
       <td> 2.60
@@ -392,7 +391,7 @@
       <td> 1.50
     </tr>
     <tr>
-      <td>
+      <th> Max Limit
       <td> 8.00
       <td> 8.00
       <td> 8.00
@@ -404,7 +403,7 @@
       <td> 8.00
     </tr>
     <tr>
-      <td>
+      <th> Move Modifier Limit
       <td> 0 - 0
       <td> 0 - 3.2
       <td> 0 - 3.2
@@ -416,7 +415,7 @@
       <td> 0 - 3.5
     </tr>
     <tr>
-      <td>
+      <th> Move Reference Velocity
       <td> 0 - 300
       <td> 0 - 300
       <td> 0 - 300
@@ -434,7 +433,7 @@
   </thead>
   <tbody>
     <tr>
-     <td>
+     <th> Vert. Recovery Range
      <td> 0 - 4
      <td> 0 - 1.4
      <td> 0 - 2.4
@@ -446,7 +445,7 @@
      <td> 0 - 1.5
     </tr>
     <tr>
-     <td>
+     <th> Vertical Speed
      <td> 10.00
      <td> 11.00
      <td> 12.00
@@ -458,7 +457,7 @@
      <td> 12.50
     </tr>
     <tr>
-     <td>
+     <th> Vert. Recovery Clamp
      <td> 5.20
      <td> 4.55
      <td> 5.00
@@ -470,7 +469,7 @@
      <td> 4.20
     </tr>
     <tr>
-     <td>
+     <th> Vert. Variation
      <td> 0.10
      <td> 0.10
      <td> 0.10
@@ -482,7 +481,7 @@
      <td> 0.10
     </tr>
     <tr>
-     <td>
+     <th> Vert. Recovery Modifier
      <td> –
      <td> 0.54
      <td> –
@@ -494,7 +493,7 @@
      <td> 0.56
     </tr>
     <tr>
-     <td>
+     <th> Vert. Recovery Speed
      <td> 6.00
      <td> 8.00
      <td> 7.00
@@ -506,7 +505,7 @@
      <td> 8.20
     </tr>
     <tr>
-     <td>
+     <th> Horiz. Speed
      <td> 10.80
      <td> 13.00
      <td> 12.00
@@ -518,7 +517,7 @@
      <td> 10.00
     </tr>
     <tr>
-     <td>
+     <th> Horiz. Tendency
      <td> -0.05
      <td> +0.00
      <td> -0.10
@@ -530,7 +529,7 @@
      <td> +0.00
     </tr>
     <tr>
-     <td>
+     <th> Value Climb
      <td> 0.72
      <td> 0.80
      <td> 0.70
@@ -542,7 +541,7 @@
      <td> 0.75
     </tr>
     <tr>
-     <td>
+     <th> Value Fall
      <td> 2.45
      <td> 2.40
      <td> 2.10
@@ -554,7 +553,7 @@
      <td> 2.50
     </tr>
     <tr>
-     <td>
+     <th> Modifier (Crouched)
      <td> 0.84
      <td> 0.84
      <td> 0.84
@@ -566,7 +565,7 @@
      <td> 0.88
     </tr>
     <tr>
-     <td>
+     <th> Modifier (Prone)
      <td> –
      <td> –
      <td> –
@@ -578,7 +577,7 @@
      <td> 0.70
     </tr>
     <tr>
-     <td>
+     <th> Recoil Kick (ADS)
      <td> 1.00
      <td> 1.00
      <td> 1.00
@@ -596,7 +595,7 @@
   </thead>
   <tbody>
     <tr>
-     <td>
+     <th> DOF Range
      <td> 35.00
      <td> 35.00
      <td> 35.00
@@ -608,7 +607,7 @@
      <td> 5.00
     </tr>
     <tr>
-     <td>
+     <th> DOF Near Range
      <td> 50.00
      <td> 50.00
      <td> 50.00
@@ -620,7 +619,7 @@
      <td> 27.00
     </tr>
     <tr>
-     <td>
+     <th> DOF Power
      <td> 1.00
      <td> 1.50
      <td> 1.00
@@ -632,7 +631,7 @@
      <td> 1.00
     </tr>
     <tr>
-     <td>
+     <th> FOV
      <td> 70°
      <td> 70°
      <td> 70°
@@ -644,7 +643,7 @@
      <td> 70°
     </tr>
     <tr>
-     <td>
+     <th> FOV (Hold Breath)
      <td> 52°
      <td> 55°
      <td> 52°
@@ -662,7 +661,7 @@
   </thead>
   <tbody>
     <tr>
-     <td>
+     <th> Pickup Delay
      <td> 0.25s
      <td> 0.25s
      <td> 0.25s
@@ -674,7 +673,7 @@
      <td> 0.25s
     </tr>
     <tr>
-     <td>
+     <th> Weight
      <td> 500
      <td> 500
      <td> 500
@@ -692,7 +691,7 @@
   </thead>
   <tbody>
     <tr>
-     <td>
+     <th> Erangel
      <td> Air Drop Only
      <td> Yes
      <td> Yes
@@ -704,7 +703,7 @@
      <td> Yes
     </tr>
     <tr>
-     <td>
+     <th> Miramar
      <td> Air Drop Only
      <td> Yes
      <td> Yes
@@ -716,7 +715,7 @@
      <td> Yes
     </tr>
     <tr>
-     <td>
+     <th> Sanhok
      <td> Air Drop Only
      <td> Yes
      <td> Yes
@@ -726,21 +725,6 @@
      <td> Yes
      <td> Air Drop Only
      <td> Yes
-    </tr>
-  </tbody>
-  <tbody>
-    <tr bgcolor=black height=10px>
-      <td>
-      <td> <font color=orange> AUG
-      <td> <font color=orange> M16A4
-      <td> <font color=orange> M416
-      <td> <font color=orange> QBZ
-      <td> <font color=orange> SCAR-L
-      <td> <font color=orange> Beryl M762
-      <td> <font color=orange> AKM
-      <td> <font color=orange> Groza
-      <td> <font color=orange> Mk47 Mutant
     </tr>
   </tbody>
 </table>
-</html>
