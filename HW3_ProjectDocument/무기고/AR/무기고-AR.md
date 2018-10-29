@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th> <font size=100> AR </font>
+      <th>  AR
       <th> <a href="./AUG.png"> AUG </a>
       <th> <a href="./M16A4.png"> M16M4 </a>
       <th> <a href="./M416.png"> M416 </a>
