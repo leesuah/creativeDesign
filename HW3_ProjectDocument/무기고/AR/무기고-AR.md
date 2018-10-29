@@ -1,30 +1,16 @@
 <table>
   <thead>
     <tr>
-      <th>
-      <th> AUG
-      <th> M16A4
-      <th> M416
-      <th> QBZ
-      <th> SCAR-L
-      <th> Beryl M762
-      <th> AKM
-      <th> Groza
-      <th> Mk47 Mutant
-    </tr>
-  </thead>
-  <thead>
-    <tr>
-      <th>
-      <th> <a href="./AUG.png"> 사진 </a>
-      <th> <a href="./M16A4.png"> 사진 </a>
-      <th> <a href="./M416.png"> 사진 </a>
-      <th> <a href="./QBZ.png"> 사진 </a>
-      <th> <a href="./SCAR-L.png"> 사진 </a>
-      <th> <a href="./Beryl M762.png"> 사진 </a>
-      <th> <a href="./AKM.png"> 사진 </a>
-      <th> <a href="./Groza.png"> 사진 </a>
-      <th> <a href="./Mk47 Mutant.png"> 사진 </a>
+      <th> <font size=10> AR
+      <th> <a href="./AUG.png"> AUG </a>
+      <th> <a href="./M16A4.png"> M16M4 </a>
+      <th> <a href="./M416.png"> M416 </a>
+      <th> <a href="./QBZ.png"> QBZ </a>
+      <th> <a href="./SCAR-L.png"> SCAR-L </a>
+      <th> <a href="./Beryl M762.png"> Beryl M762 </a>
+      <th> <a href="./AKM.png"> AKM </a>
+      <th> <a href="./Groza.png"> Groza </a>
+      <th> <a href="./Mk47 Mutant.png"> Mk47 Mutant </a>
     </tr>
   </thead>
 <!-- overview -->
