@@ -13,6 +13,20 @@
       <th> Mk47 Mutant
     </tr>
   </thead>
+  <thead>
+    <tr>
+      <th>
+      <th> <a href="./AUG.png"> 사진 </a>
+      <th> <a href="./M16A4.png"> 사진 </a>
+      <th> <a href="./M416.png"> 사진 </a>
+      <th> <a href="./QBZ.png"> 사진 </a>
+      <th> <a href="./SCAR-L.png"> 사진 </a>
+      <th> <a href="./Beryl M762.png"> 사진 </a>
+      <th> <a href="./AKM.png"> 사진 </a>
+      <th> <a href="./Groza.png"> 사진 </a>
+      <th> <a href="./Mk47 Mutant.png"> 사진 </a>
+    </tr>
+  </thead>
 <!-- overview -->
   <thead>
       <th colspan=10> overview
