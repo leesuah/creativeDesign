@@ -15,11 +15,11 @@
   </thead>
 <!-- overview -->
   <thead>
-      <th colspan=10> overview
+      <th colspan=10> 개요
   </thead>
   <tbody>
     <tr>
-      <th> Ammo Type
+      <th> 구경
       <td> 5.56mm
       <td> 5.56mm
       <td> 5.56mm
@@ -31,7 +31,7 @@
       <td> 7.62mm
     </tr>
     <tr>
-      <th> Hit Damage
+      <th> 발당 데미지
       <td> 43
       <td> 43
       <td> 43
@@ -43,7 +43,7 @@
       <td> 49
     </tr>
     <tr>
-      <th> Initial Bullet Speed
+      <th> 초기 총알 속도
       <td> 940
       <td> 900
       <td> 880
@@ -55,7 +55,7 @@
       <td> 780
     </tr>
     <tr>
-      <th> Damage Per Second
+      <th> 초당 데미지
       <td> 501
       <td> 573
       <td> 501
@@ -67,7 +67,7 @@
       <td> 489
     </tr>
     <tr>
-      <th> Zeroing Ranges
+      <th> 영점 거리
       <td> 100 - 500
       <td> 100 - 500
       <td> 100 - 400
@@ -79,7 +79,7 @@
       <td> 100 - 1,000
     </tr>
     <tr>
-      <th> Ammo Per Clip
+      <th> 탄창당 총알 수
       <td> 30
       <td> 30
       <td> 30
@@ -91,7 +91,7 @@
       <td> 20
     </tr>
     <tr>
-      <th> Burst Size
+      <th> 점사 크기
       <td> 1
       <td> 3
       <td> 1
@@ -103,7 +103,7 @@
       <td> 2
     </tr>
     <tr>
-      <th> Time Between Shots
+      <th> 발당 시간
       <td> 0.086s
       <td> 0.075s
       <td> 0.086s
@@ -115,7 +115,7 @@
       <td> 0.100s
     </tr>
     <tr>
-      <th> Firing Modes
+      <th> 발사 모드
       <td> Auto, Single
       <td> Burst, Single
       <td> Auto, Single
@@ -133,7 +133,7 @@
   </thead>
   <tbody>
     <tr>
-     <th> Range
+     <th> 사거리
      <td> 1000m
      <td> 1000m
      <td> 1000m
@@ -145,7 +145,7 @@
      <td> 1000m
     </tr>
     <tr>
-     <th> Reference Distance
+     <th> 기준 사거리
      <td> 350m
      <td> 400m
      <td> 360m
@@ -157,7 +157,7 @@
      <td> 380m
     </tr>
     <tr>
-     <th> Range Modifier
+     <th> 사거리 조정기
      <td> 0.940
      <td> 0.940
      <td> 0.940
@@ -169,7 +169,7 @@
      <td> 0.950
     </tr>
     <tr>
-     <th> Drag Coefficient
+     <th> 항력 계수
      <td> 0.80
      <td> 0.78
      <td> 0.76
@@ -187,7 +187,7 @@
   </thead>
   <tbody>
     <tr>
-      <th> Reload Method
+      <th> 장전 방식
       <td> Clip
       <td> Clip
       <td> Clip
@@ -199,7 +199,7 @@
       <td> Clip
     </tr>
     <tr>
-      <th> Duration (Full)
+      <th> 장전 시간 (완전장전)
       <td> 3.100s
       <td> 2.500s
       <td> 3.100s
@@ -211,7 +211,7 @@
       <td> 3.100s
     </tr>
     <tr>
-      <th> Duration (Mag Out)
+      <th> 장전 시간 (Mag Out)
       <td> 0.400s
       <td> 0.400s
       <td> 0.400s
@@ -223,7 +223,7 @@
       <td> 0.400s
     </tr>
     <tr>
-      <th> Duration (Charge)
+      <th> 장전 시간 (Charge)
       <td> 3.667s
       <td> 2.200s
       <td> 2.100s
@@ -235,7 +235,7 @@
       <td> 3.350s
     </tr>
     <tr>
-      <th> Duration (Tactical)
+      <th> 장전 시간 (Tactical)
       <td> 3.000s
       <td> 1.900s
       <td> 1.900s
@@ -249,11 +249,11 @@
   </tbody>
 <!-- Spread -->
   <thead>
-    <th colspan=10> Spread
+    <th colspan=10> 탄퍼짐
   </thead>
   <tbody>
     <tr>
-      <th> Base
+      <th> 기본
       <td> 4.00
       <td> 5.00
       <td> 4.00
@@ -265,7 +265,7 @@
       <td> 6.00
     </tr>
     <tr>
-      <th> Aiming Modifier
+      <th> 에임 보정기
       <td> 0.13
       <td> 0.15
       <td> 0.14
@@ -277,7 +277,7 @@
       <td> 0.15
     </tr>
     <tr>
-      <th> ADS Modifier
+      <th> 정조준 보정기
       <td> 0.02
       <td> 0.02
       <td> 0.02
@@ -289,7 +289,7 @@
       <td> 0.03
     </tr>
     <tr>
-      <th> Firing Base
+      <th> 발사 기본
       <td> 9
       <td> 8
       <td> 8
@@ -303,11 +303,11 @@
   </tbody>
 <!-- Deviation -->
   <thead>
-    <th colspan=10> Deviation
+    <th colspan=10> 편차
   </thead>
   <tbody>
     <tr>
-      <th> Base
+      <th> 기본
       <td> 3.00
       <td> 3.10
       <td> 3.10
@@ -319,7 +319,7 @@
       <td> 3.50
     </tr>
     <tr>
-      <th> Base (Aim)
+      <th> 기본 (조준)
       <td> 1.20
       <td> 1.30
       <td> 1.35
@@ -329,18 +329,6 @@
       <td> 1.40
       <td> 1.40
       <td> 1.45
-    </tr>
-    <tr>
-      <th> Base (ADS)
-      <td> –
-      <td> –
-      <td> –
-      <td> –
-      <td> –
-      <td> 0.02
-      <td> 0.02
-      <td> –
-      <td> 0.02
     </tr>
     <tr>
       <th> Recoil Gain
@@ -631,7 +619,7 @@
      <td> 1.00
     </tr>
     <tr>
-     <th> FOV
+     <th> 시야각
      <td> 70°
      <td> 70°
      <td> 70°
@@ -643,7 +631,7 @@
      <td> 70°
     </tr>
     <tr>
-     <th> FOV (Hold Breath)
+     <th> 시야각 (숨참을 때)
      <td> 52°
      <td> 55°
      <td> 52°
@@ -661,7 +649,7 @@
   </thead>
   <tbody>
     <tr>
-     <th> Pickup Delay
+     <th> 획득에 걸리는 시간
      <td> 0.25s
      <td> 0.25s
      <td> 0.25s
@@ -673,7 +661,7 @@
      <td> 0.25s
     </tr>
     <tr>
-     <th> Weight
+     <th> 무게
      <td> 500
      <td> 500
      <td> 500
@@ -687,11 +675,11 @@
   </tbody>
 <!-- Availability -->
   <thead>
-    <th colspan=10> Availability
+    <th colspan=10> 획득 가능 여부
   </thead>
   <tbody>
     <tr>
-     <th> Erangel
+     <th> 에란겔
      <td> Air Drop Only
      <td> Yes
      <td> Yes
@@ -703,7 +691,7 @@
      <td> Yes
     </tr>
     <tr>
-     <th> Miramar
+     <th> 미라마
      <td> Air Drop Only
      <td> Yes
      <td> Yes
@@ -715,7 +703,7 @@
      <td> Yes
     </tr>
     <tr>
-     <th> Sanhok
+     <th> 사녹
      <td> Air Drop Only
      <td> Yes
      <td> Yes
