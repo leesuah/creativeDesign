@@ -13,39 +13,39 @@
 
 # 인터페이스 페이지 세부요소
 
-![NoImage](./설정001.jpg)
-![NoImage](./설정002.jpg)
   ## 기본 (element-01)
     - 조준선, 사격 자세 등의 기본설정 페이지로 이동
- ![NoImage](./설정004.jpg)
- ![NoImage](./설정005.jpg)
+
+![NoImage](./설정001.jpg)
+![NoImage](./설정002.jpg) 
  ## 화면 설정 (element-02)
     - 화면 설정 페이지로 이동
-    ![NoImage](./설정006.jpg)
+ ![NoImage](./설정004.jpg)
+ ![NoImage](./설정005.jpg)   
   ## 조작 설정 (element-03)
     - 조작 설정 페이지로 이동
-    ![NoImage](./설정007.jpg)
+   ![NoImage](./설정006.jpg) 
   ## 차량 설정(element-04)
     - 차량 조작 설정 페이지로 이동
-    ![NoImage](./설정008.jpg)
-    ![NoImage](./설정009.jpg)
+   ![NoImage](./설정007.jpg) 
   ## 감도 설정 (element-05)
     - 감도 설정 페이지로 이동
-    ![NoImage](./설정010.jpg)
     
+   ![NoImage](./설정008.jpg)
+    ![NoImage](./설정009.jpg) 
   ## 줍기 설정 (element-06)
     - 줍기 설정 페이지로 이동
-    ![NoImage](./설정011.jpg)
+  ![NoImage](./설정010.jpg)  
   ## 사운드 설정 (element-07)
     - 사운드 설정 페이지로 이동
-    ![NoImage](./설정012.jpg)
+  ![NoImage](./설정011.jpg)  
   ## 퀵 메시지 (element-09)
     - 퀵 메시지 설정 페이지로 이동
-    ![NoImage](./설정013.jpg)
- 
+ ![NoImage](./설정012.jpg) 
  ## 언어 설정 (element-10)
     - 언어 설정 페이지로 이동
-  
+  ![NoImage](./설정013.jpg)
+ 
   ### 기본 설정
   세부요소번호 | 내용    
   -------|-----
