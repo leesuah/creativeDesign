@@ -9,7 +9,7 @@
 <br>
 
 # 구성도
-![시즌](./Resource/무기고/view08.png)
+![시즌](./Resource/view08.png)
 <br>
 <br>
 
