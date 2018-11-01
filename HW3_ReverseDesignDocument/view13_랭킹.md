@@ -9,7 +9,7 @@
 <br>
 
 # 구성도
-![NoImage](./Ranking2.jpg)
+![NoImage](./Ranking1.jpg)
 <br>
 <br>
 
