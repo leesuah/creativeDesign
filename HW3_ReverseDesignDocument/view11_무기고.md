@@ -10,7 +10,7 @@
 <br>
 
 # 구성도
-![무기고](./Resource/무기고/view11.png)
+![무기고](./Resource/view11.png)
 <br>
 <br>
 
