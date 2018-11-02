@@ -34,7 +34,80 @@
   ## 멤버 모집 버튼 (Element-05)
     - 친구 목록에 있는 플레이어 중 크루에 초대할 사람을 선택할 수 있음
 
-  ## [크루상점](./Resource/크루/크루상점.md)
+  ### 크루 상점
+  <table>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/크루/트렌치코트.jpg>
+        <th> <img src=./Resource/크루/캣츠-M416.png width=65%>
+        <th> <img src=./Resource/크루/본_핸드-SKS.jpg>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 트렌치코트 (그레이) <br> 5000
+        <th> 캣츠-M416 <br> 6500
+        <th> 본 핸드-SKS <br> 2000
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/크루/서니사이드.jpg>
+        <th> <img src=./Resource/크루/본_핸드-SKS.jpg>
+        <th> <img src=./Resource/크루/서니사이드.jpg>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 서니사이드 업 스킨-Pan <br> 2000
+        <th> 본 핸드-SKS (7일) <br> 250
+        <th> 서니사이드 업 스킨-Pan (7일) <br> 250
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/크루/백호.jpg>
+        <th> <img src=./Resource/크루/화이트이글.jpg width=65%>
+        <th> <img src=./Resource/크루/행운의_물고기.jpg>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 백호 테두리 <br> 1500
+        <th> 화이트 이글 테두리 <br> 1500
+        <th> 행운의 물고기 <br> 1500
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/크루/총신.jpg>
+        <th> <img src=./Resource/크루/총혼.jpg>
+        <th> <img src=./Resource/크루/총왕.jpg>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 총신 골드 테두리 <br> 600
+        <th> 총혼 실버 테두리 <br> 300
+        <th> 총왕 브론즈 테두리 <br> 150
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/크루/커스텀매치.jpg>
+        <th> <img src=./Resource/크루/닉변권.jpg>
+        <th> <img src=./Resource/크루/깃발카드.jpg>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 커스텀 매치 생성권 1회 <br> 200
+        <th> 닉네임 변경권 <br> 200
+        <th> 깃발 카드 <br> 200
+      </tr>
+    </tbody>
+  </table>
+
 <br>
 <br>
 
