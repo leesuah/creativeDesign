@@ -38,16 +38,22 @@
     - 06-1 : 총기의 회전을 초기화시키는 버튼
     - 06-2 : 총기 오브젝트를 제외한 다른 요소를 안보이게 함
              이 경우 화면 우상단에 생기는 X 버튼을 터치하면 다시 돌아옴
-  ### 표가 필요하다면 사용
-  돌격소총
-  저격소총
-  지정사수소총
-  기관단총
-  산탄총
-  경기관총
-  권총
-  근접무기
-  기타
+<table>
+  <thead>
+    <tr>
+      <th colspan=3> 총기 상세 능력 표
+    </tr>
+    <tr>
+      <th> <a href="./Resource/무기고/AR/무기고-AR.md"> AR
+      <th> <a href="./Resource/무기고/SMG/무기고-SMG.md"> SMG
+      <th> <a href="./Resource/무기고/SR/무기고-SR.md"> SR
+    </tr>
+    <tr>
+      <th> <a href="./Resource/무기고/DMR/무기고-DMR.md"> DMR
+      <th> <a href="./Resource/무기고/SG/무기고-SG.md"> SG
+      <th> <a href="./Resource/무기고/LMG/무기고-LMG.md"> LMG
+    </tr>
+</table>
 <br>
 <br>
 
