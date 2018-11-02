@@ -8,11 +8,11 @@
 <br>
 
 # 구성도
-![NoImage](./메일001.jpg)
-![NoImage](./메일002.jpg)
-![NoImage](./메일003.png)
-![NoImage](./메일004.png)
-![NoImage](./메일005.png)
+![NoImage](./Resource/메일001.jpg)
+![NoImage](./Resource/메일002.jpg)
+![NoImage](./Resource/메일003.png)
+![NoImage](./Resource/메일004.png)
+![NoImage](./Resource/메일005.png)
 <br>
 <br>
 

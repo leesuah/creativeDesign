@@ -10,10 +10,10 @@
 <br>
 
 # 구성도
-![NoImage](./미션001.jpg)
-![NoImage](./미션002.jpg)
-![NoImage](./미션003.jpg)
-![NoImage](./미션004.jpg)
+![NoImage](./Resource/미션001.jpg)
+![NoImage](./Resource/미션002.jpg)
+![NoImage](./Resource/미션003.jpg)
+![NoImage](./Resource/미션004.jpg)
 <br>
 <br>
 
