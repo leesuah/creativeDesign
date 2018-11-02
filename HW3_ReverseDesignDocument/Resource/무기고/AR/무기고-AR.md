@@ -5,7 +5,7 @@
     <th> <img src=./M16A4.png>
     <th> <img src=./SCAR-L.png>
     <th> <img src=./M416.png>
-    <th> <img src=./GROZA.png>
+    <th> <img src=./Groza.png>
     <th> <img src=./AUG.png>
     <th> <img src=./QBZ.png>
   </tr>
