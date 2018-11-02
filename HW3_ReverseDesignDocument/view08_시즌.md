@@ -30,8 +30,97 @@
     - 하단에서 솔로/듀오/스쿼드 중 하나를 고를 수 있음
     - 총 합해서 6개의 모드별로 플레이어의 티어와 총점을 확인 가능
 
-  ## [티어구분표](./Resource/시즌/티어구분표.md)
-  ## [시즌보상표](./Resource/시즌/시즌보상표.md)
+  ### 티어 구분 표
+  <table>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/시즌/브론즈.png>
+        <th> <img src=./Resource/시즌/실버.png>
+        <th> <img src=./Resource/시즌/골드.png>
+        <th> <img src=./Resource/시즌/플래티넘.png>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 브론즈 <br> (1200~1699)
+        <th> 실버 <br> (1700~2199)
+        <th> 골드 <br> (2200~2699)
+        <th> 플래티넘 <br> (2700~3199)
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> <img src=./Resource/시즌/다이아몬드.png>
+        <th> <img src=./Resource/시즌/크라운.png>
+        <th> <img src=./Resource/시즌/에이스.png>
+        <th> <img src=./Resource/시즌/정복자.png>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th> 다이아몬드 <br> (3200~3699)
+        <th> 크라운 <br> (3700~4199)
+        <th> 에이스 <br> (4200~)
+        <th> 정복자 <br> (에이스 상위 500등)
+      </tr>
+    </tbody>
+  </table>
+
+  ### 시즌 보상 표
+  <table>
+    <tr>
+      <th colspan=2> 티어 보상
+      <th colspan=2> 시즌 종료 보상
+    </tr>
+    <tr>
+      <th> 실버 Ⅴ
+      <th> 시즌 3 전투용 신발
+      <th> 브론즈
+      <th> S3 브론즈 상자
+    </tr>
+    <tr>
+      <th> 골드 Ⅴ
+      <th> 시즌 3 전투용 바지
+      <th> 실버
+      <th> S3 실버 상자
+    </tr>
+    <tr>
+      <th> 플래티넘 Ⅴ
+      <th> 시즌 3 전투용 코트
+      <th> 골드
+      <th> S3 골드 상자
+    </tr>
+    <tr>
+      <th> 다이아 Ⅴ
+      <th> S3 전투 고글
+      <th> 플래티넘
+      <th> S3 플래티넘 상자
+    </tr>
+    <tr>
+      <th> 크라운 Ⅴ
+      <th> 딜라이트 카모 - SKS
+      <th> 다이아
+      <th> S3 다이아 상자
+    </tr>
+    <tr>
+      <th> 에이스
+      <th> S3 에이스 낙하산
+      <th> 크라운
+      <th> S3 크라운 상자
+    </tr>
+    <tr>
+      <th> 정복자
+      <th> S3 정복자 테두리
+      <th> 에이스
+      <th> S3 에이스 상자
+    </tr>
+    <tr>
+      <th colspan=2>
+      <th> 정복자
+      <th> S3 정복자 상자
+    </tr>
+  </table>
+
 <br>
 <br>
 
