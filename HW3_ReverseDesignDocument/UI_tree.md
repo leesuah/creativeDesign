@@ -1,89 +1,28 @@
 ## UI
 - **메인화면**
   - **화면 하단**
-      - 시즌
-        - 클래식 TPP
-          - 솔로 모드
-          - 듀오 모드
-          - 스쿼드 모드
-        - 클래식 FPP
-          - 솔로 모드
-          - 듀오 모드
-          - 스쿼드 모드
-        - 시즌 요약
-        - 시즌 기록
-      - 클랜
-      - 크루
-        - 크루생성
-      - 무기고
-        - AR
-        - SR
-        - DMR
-        - SMG
-        - SG
-        - LMG
-        - Pistol
-        - Melee  
-      - 창고
-        - 캐릭터 외형
-        - 무기 외형
-        - 차량 외형
-        - 낙하산 외형
-        - 상자 외형
-        - 외형 초기화
-      - 랭킹
-        - 랭킹
-          - 솔로
-            -클래식(TPP)
-              - 전체
-              - 생존
-              - 킬
-              - 시즌
-            - 클래식(FPP)
-              - 전체
-              - 생존
-              - 킬
-              - 시즌
-            - RP랭킹
-          - 듀오
-            - 위와 같음
-          - 스쿼드
-            - 위와 같음
-        - 배그지역
-          - 지역랭킹
-          - 친구랭킹
-          - 칭호
-          - 지역 강자
-          - 글로벌 최강
-      - 미션
-        - 일일미션
-        - 성장미션
-        - 주간 퀘스트
-        - 개인업적
-      - 메일
-        - 시스템 메일
-        - 친구메일
-        - 선물센터
-      - 설정
-        - 기본
-        - 화면설정
-        - 조작설정
-        - 차량설정
-        - 감도설정
-        - 줍기설정
-        - 사운드설정
-        - 퀵메시지
-        - 언어 설정
-      - 신고
-      - 튜토리얼
-      
+      - [시즌](./view08_시즌.md)
+      - [클랜](./view09_클랜.md)
+      - [크루](./view10_크루.md)
+        - [크루 상점](./Resource/크루/크루상점.md)
+      - [무기고](./view11_무기고.md)
+      - [창고](./view12_창고.md)
+      - [랭킹](./view13_랭킹.md)
+      - [미션](./view14_미션.md)
+      - [메일](./view15_메일.md)
+      - [설정](./view16_설정.md)
+        - [기본](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EA%B8%B0%EB%B3%B8-element-01)
+        - [화면설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%ED%99%94%EB%A9%B4-%EC%84%A4%EC%A0%95-element-02)
+        - [조작설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EC%A1%B0%EC%9E%91-%EC%84%A4%EC%A0%95-element-03)
+        - [차량설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EC%B0%A8%EB%9F%89-%EC%84%A4%EC%A0%95element-04)
+        - [감도설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EA%B0%90%EB%8F%84-%EC%84%A4%EC%A0%95-element-05)
+        - [줍기설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EC%A4%8D%EA%B8%B0-%EC%84%A4%EC%A0%95-element-06)
+        - [사운드설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%84%A4%EC%A0%95-element-07)
+        - [퀵메시지](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%ED%80%B5-%EB%A9%94%EC%8B%9C%EC%A7%80-element-09)
+        - [언어 설정](https://github.com/wetcod/creativeDesign/blob/master/HW3_ReverseDesignDocument/view16_%EC%84%A4%EC%A0%95.md#%EC%96%B8%EC%96%B4-%EC%84%A4%EC%A0%95-element-10)
+
   - **화면 우측**
-      - 정보
-        - 기본정보
-        - 개인전적
-        - 전적기록
-        - 플레이어 정보
-        - 개인 업적
+      - [정보](./view17_개인정보.md)
       - 첫 충전보상
       - 충전
         - 1100원 -> 60
@@ -105,76 +44,25 @@
           - 일일 미션
           - 챌린지 미션
         - 교환
-      - 이벤트
-        - 매일하는 전투
-        - 매일 출석하고 상자 교환권을
-        - 출석체크 보상
-      
+      - [이벤트](./view20_이벤트.md)
+
   - **화면좌측**
-    - 게임시작
-    - 모드
-      - 3인칭(TPP)
-        - 클래식모드
-          - 에란겔
-          - 미라마
-          - 사녹
-        - 아케이드 모드
-          - 워모드
-          - 캐주얼모드
-          - 스나이퍼매치
-          - 극한매치
-        - 파티
-          - 솔로
-          - 듀오
-          - 스쿼드
-        - 서버
-      - 1인칭 (FPP)
-        - 위와 같음
-    - 친구
-      - 게임 친구
-      - 최근 파티
-      - 친밀도
-      - 친구추가
-    - 초대하기
-      - 파티초대
-      - 로컬파티
-      - 홈페이지
-    - 파티초대
-      - Messanger
-      - SNS
-    - 액션
-    - 파티모집
-    - 채팅창
-      - 주제
-      - 파티
-      - 친구
-      - 클랜
-      - 음성
-    
+    - [게임시작](./view01_메인.md)
+    - [모드](./view03_모드.md)
+    - [친구](./view04_친구.md)
+    - [초대하기](./view05_초대.md)
+      - [파티초대/로컬파티/홈페이지](./view05_초대.md#파티-기능(element-02))
+    - [파티](./view06_파티.md)
+    - [채팅창](./view07_채팅.md)
+
 - **게임화면**
-  - 좌측하단
-    - 공격
-    - 이동
-    - 가방
-      - 장비
-      - 의상
-      - 버리기
-  - 중앙 하단 
-    - 무기변경
-    - 수류탄
-    - 회복약
-  - 우측하단
-    - 장전
-    - 공격
-    - 앉기
-    - 눕기
-    - 점프
+  - [좌측하단](./view02_게임플레이.md#플레이어-조작버튼-(element-01~14))
+  - [중앙 하단](./view02_게임플레이.md#플레이어-조작버튼-(element-01~14))
+  - [우측하단](./view02_게임플레이.md#플레이어-조작버튼-(element-01~14))
   - 우측상단
-    - 채팅
-    - 자동달리기
-    - 음성채팅
-    - 채팅범위설정
-    - 설정
-      - 메인화면과 같음
-    - 행동
-    - 지도
+    - [채팅](./view02_게임플레이.md#설정-및-메뉴-버튼-(element-15~19))
+    - [자동달리기](./view02_게임플레이.md#플레이어-조작버튼-(element-01~14))
+    - [음성채팅](./view02_게임플레이.md#설정-및-메뉴-버튼-(element-15~19))
+    - [채팅범위설정](./view02_게임플레이.md#설정-및-메뉴-버튼-(element-15~19))
+    - [설정](./view02_게임플레이.md#설정-및-메뉴-버튼-(element-15~19))
+    - [지도](./view02_게임플레이.md#지도 (element-26))
