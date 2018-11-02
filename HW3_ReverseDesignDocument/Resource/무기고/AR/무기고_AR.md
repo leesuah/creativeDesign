@@ -1,14 +1,15 @@
 <table>
-  <th>
-  <th> <img src=./AKM.png>
-  <th> <img src=./M16A4.png>
-  <th> <img src=./SCAR-L.png>
-  <th> <img src=./M416.png>
-  <th> <img src=./GROZA.png>
-  <th> <img src=./AUG.png>
-  <th> <imt src=./QBZ.png>
   <tr>
-    <th> AR
+    <th rowspan=2> AR
+    <th> <img src=./AKM.png>
+    <th> <img src=./M16A4.png>
+    <th> <img src=./SCAR-L.png>
+    <th> <img src=./M416.png>
+    <th> <img src=./GROZA.png>
+    <th> <img src=./AUG.png>
+    <th> <img src=./QBZ.png>
+  </tr>
+  <tr>
     <th> AKM
     <th> M16A4
     <th> SCAR-L
@@ -76,5 +77,38 @@
     <td> 클립
     <td> 클립
     <td> 클립
+  </tr>
+  <tr>
+    <th colspan=8> 획득 가능 여부
+  </tr>
+  <tr>
+    <th> 에란겔
+    <td> 가능
+    <td> 가능
+    <td> 가능
+    <td> 가능
+    <td> 에어드랍
+    <td> 에어드랍
+    <td> 불가능
+  </tr>
+  <tr>
+    <th> 미라마
+    <td> 가능
+    <td> 가능
+    <td> 가능
+    <td> 가능
+    <td> 에어드랍
+    <td> 에어드랍
+    <td> 불가능
+  </tr>
+  <tr>
+    <th> 사녹
+    <td> 가능
+    <td> 가능
+    <td> 불가능
+    <td> 가능
+    <td> 에어드랍
+    <td> 에어드랍
+    <td> 불가능
   </tr>
 </table>
