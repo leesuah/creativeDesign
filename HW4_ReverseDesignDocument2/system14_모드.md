@@ -9,7 +9,7 @@
 
 
 # 기본실행순서
-![NoImage](./Resource/모드.png)  
+![NoImage](./모드.png)  
 
 또는 png
 
