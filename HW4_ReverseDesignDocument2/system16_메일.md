@@ -9,7 +9,7 @@
 
 
 # 기본실행순서
-![NoImage](./Resource/system0*.jpg)  
+![NoImage](./메일.png)  
 
 또는 png
 
