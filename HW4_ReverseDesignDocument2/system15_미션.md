@@ -9,7 +9,7 @@
 
 
 # 기본실행순서
-![NoImage](./Resource/system0*.jpg)  
+![NoImage](./미션.png)  
 
 또는 png
 
